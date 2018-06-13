@@ -35,7 +35,7 @@ function Py2Pojo(mode_) range
 	let a:pojo_code = readfile(a:tempfile)
 	call delete(a:tempfile)
 
-	execute a:firstline . "," a:lastline . "d"
+	execute a:firstline . "," . a:lastline . "d"
 	call append(a:firstline - 1, a:pojo_code)
 
 endfunction
