@@ -4,7 +4,7 @@
 
 ---------------
 
-Hmmm, I have a great ideal, but currently it have only one function.
+Hmmm, I have a great ideal, but currently it has only one function.
 
 ---------------
 
